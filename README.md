@@ -51,9 +51,6 @@ pod install
 
 After the pod is installed, navigate to your project directory and open the .xcworkspace file in Xcode. Then, select a simulator or connect a device and build/run the app.
 
-## Developer guide 
-Developer guide for iOS and Android is available at [guide](https://datamall.lta.gov.sg/content/dam/datamall/pdf/Extended_OBU_Library_SDK_Developer_Guide.pdf)
-
 ## Changelog 
 All changes are documented in [CHANGELOG.md](CHANGELOG.md).
 
