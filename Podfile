@@ -6,5 +6,5 @@ target 'obusdk-ios-sample' do
   use_frameworks!
 
   # Pods for obusdk-ios-sample
- pod 'extol', '1.0.3'
+ pod 'extol'
 end
