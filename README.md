@@ -1,6 +1,6 @@
 # obusdk-ios-sample
 
-![Static Badge](https://img.shields.io/badge/release-v1.1.0-blue)
+![Static Badge](https://img.shields.io/badge/release-v1.2.0-blue)
 
 This repository provides a sample app to assist you in integrating the obusdk and its APIs into your applications. 
 
